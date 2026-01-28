@@ -12,17 +12,42 @@
 
 ---
 
-## 👋 About Me
-
+## 👋 About 
 I'm a passionate **backend engineer** and **offensive security specialist** dedicated to building secure, scalable systems while identifying and eliminating vulnerabilities. My expertise spans full-stack backend development and advanced penetration testing methodologies.
 
-```python
-class Developer:
+<style>
+  @keyframes typing {
+    0% { width: 0; }
+    100% { width: 100%; }
+  }
+  @keyframes blink {
+    0%, 49% { border-right-color: #0891b2; }
+    50%, 100% { border-right-color: transparent; }
+  }
+  .typing-container {
+    overflow: hidden;
+    border-right: 3px solid #0891b2;
+    white-space: nowrap;
+    animation: typing 8s steps(120, end) infinite, blink 0.8s infinite;
+    font-family: 'Courier New', monospace;
+    background: #0f172a;
+    color: #22d3ee;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    font-size: 14px;
+    line-height: 1.5;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+</style>
+
+<div class="typing-container">class Developer:
     def __init__(self):
         self.specialization = ["Backend Development", "Penetration Testing"]
         self.focus_areas = ["Secure Coding", "API Security", "Vulnerability Research"]
-        self.philosophy = "Security first, features second"
-```
+        self.philosophy = "Security first, features second"</div>
 
 ---
 
