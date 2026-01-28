@@ -1,4 +1,23 @@
-# 💻 Komezusenge Bolice
+<style>
+  @keyframes glow {
+    0%, 100% { text-shadow: 0 0 10px rgba(8, 145, 178, 0.5); }
+    50% { text-shadow: 0 0 20px rgba(8, 145, 178, 0.9), 0 0 30px rgba(8, 145, 178, 0.6); }
+  }
+  @keyframes pulse-gradient {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+  }
+  @keyframes bounce-wave {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+  }
+  .animated-name {
+    animation: glow 2s ease-in-out infinite;
+    font-weight: bold;
+  }
+</style>
+
+# 💻 <span class="animated-name">Komezusenge Bolice</span>
 
 > **Backend Developer** • **Security Researcher** • **Penetration Testing Specialist**
 
@@ -16,6 +35,8 @@
 
 I'm a passionate **backend engineer** and **offensive security specialist** dedicated to building secure, scalable systems while identifying and eliminating vulnerabilities. My expertise spans full-stack backend development and advanced penetration testing methodologies.
 
+<div style="animation: bounce-wave 2s infinite; display: inline-block;">
+
 ```python
 class Developer:
     def __init__(self):
@@ -23,6 +44,8 @@ class Developer:
         self.focus_areas = ["Secure Coding", "API Security", "Vulnerability Research"]
         self.philosophy = "Security first, features second"
 ```
+
+</div>
 
 ---
 
@@ -104,6 +127,8 @@ I'm interested in working on:
 
 ## 💭 Ask Me About
 
+<div style="animation: pulse-gradient 3s ease infinite; padding: 15px; border-radius: 8px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%;">
+
 ```
 ✓ Secure backend system design
 ✓ Vulnerability assessment & exploitation
@@ -112,6 +137,8 @@ I'm interested in working on:
 ✓ Pentesting methodologies
 ✓ Linux security best practices
 ```
+
+</div>
 
 ---
 
@@ -154,12 +181,16 @@ I'm interested in working on:
 
 Passionate advocate for **open-source security tools** and **Linux-first development practices**. Believer in transparency and community-driven security.
 
+<div style="animation: glow 2s ease-in-out infinite; padding: 15px; border-radius: 8px; background: rgba(31, 41, 55, 0.8); border: 2px solid #0891b2;">
+
 ```bash
 $ whoami
 backend-developer & penetration-tester
 $ echo "Making systems secure, one commit at a time"
 Making systems secure, one commit at a time
 ```
+
+</div>
 
 ---
 
