@@ -82,9 +82,11 @@ I'm open to collaborating on:
 
 ### 📊 GitHub Statistics (2026)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Komezusenge-Bolice&show_icons=true&theme=dark&date_format=short)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Komezusenge-Bolice&show_icons=true&theme=dark&date_format=short&hide_rank=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komezusenge-Bolice&layout=compact&theme=dark)
+
+*Note: Statistics reflect activity from January 2026 onwards*
 
 ---
 
