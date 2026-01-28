@@ -23,10 +23,10 @@ I'm a passionate **backend developer** and **penetration tester** with a focus o
 ### 💼 Technical Expertise
 
 **Backend Development:**
-- Languages: Python, Go, JavaScript/Node.js, Java, C#
-- Frameworks: Django, FastAPI, Express.js, Spring Boot
-- Databases: PostgreSQL, MongoDB, Redis, MySQL
-- APIs: REST, GraphQL, gRPC
+- Languages: Python, JavaScript/Node.js
+- Frameworks: Django, FastAPI, Express.js
+- Databases: PostgreSQL, MongoDB, MySQL
+- APIs: REST, GraphQL
 - Architecture: Microservices, Event-Driven, SOLID principles
 
 **Security & Penetration Testing:**
@@ -35,7 +35,7 @@ I'm a passionate **backend developer** and **penetration tester** with a focus o
 - API Security Assessment
 - Vulnerability Analysis & Exploitation
 - Security Auditing & Reporting
-- Tools: Burp Suite, Metasploit, OWASP ZAP, Custom Scripts
+- Tools: Burp Suite, Metasploit, OWASP ZAP, Nmap, Wireshark, Nikto, Custom Scripts
 
 **DevOps & Infrastructure:**
 - Docker, Kubernetes
@@ -76,8 +76,8 @@ I'm open to collaborating on:
 ### 📫 Get in Touch
 
 - **GitHub**: [@Komezusenge-Bolice](https://github.com/Komezusenge-Bolice)
-- **LinkedIn**: [Connect with me](https://linkedin.com)
-- **Email**: [your-email@example.com]
+- **LinkedIn**: [Komezusenge Bolice](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
+- **Email**: komezusengebolice@gmail.com
 
 ---
 
@@ -96,6 +96,12 @@ Check out my repositories to see my work in:
 - Security tools and utilities
 - Penetration testing frameworks
 - Infrastructure automation
+
+---
+
+### 🐧 Linux Enthusiast
+
+Proud Linux user and advocate for open-source security tools and practices.
 
 ---
 
