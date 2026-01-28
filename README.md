@@ -77,7 +77,6 @@ I'm open to collaborating on:
 
 - **GitHub**: [@Komezusenge-Bolice](https://github.com/Komezusenge-Bolice)
 - **LinkedIn**: [Komezusenge Bolice](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
-- **Email**: komezusengebolice@gmail.com
 
 ---
 
