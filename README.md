@@ -1,6 +1,6 @@
 # 💻 Komezusenge Bolice
 
-> **Backend Developer** • **Security Researcher** • **Penetration Testing Specialist**
+> **Full Stack Developer** • **Security Researcher** • **Penetration Testing Specialist**
 
 <div align="center">
   
@@ -14,13 +14,13 @@
 
 ## 👋 About Me
 
-I'm a passionate **backend engineer** and **offensive security specialist** dedicated to building secure, scalable systems while identifying and eliminating vulnerabilities. My expertise spans full-stack backend development and advanced penetration testing methodologies.
+I'm a passionate **full stack developer** and **offensive security specialist** dedicated to building secure, scalable systems while identifying and eliminating vulnerabilities. My expertise spans full-stack development (both frontend and backend) and advanced penetration testing methodologies.
 
 ```python
 class Developer:
     def __init__(self):
-        self.specialization = ["Backend Development", "Penetration Testing"]
-        self.focus_areas = ["Secure Coding", "API Security", "Vulnerability Research"]
+        self.specialization = ["Full Stack Development", "Penetration Testing"]
+        self.focus_areas = ["Secure Coding", "API Security", "Vulnerability Research", "Frontend Development"]
         self.philosophy = "Security first, features second"
 ```
 
@@ -31,7 +31,7 @@ class Developer:
 | Area | Description |
 |------|-------------|
 | 🛡️ **Security Research** | Finding and responsibly disclosing vulnerabilities |
-| 💻 **Backend Development** | Building resilient, production-grade APIs |
+| 💻 **Full Stack Development** | Building resilient, production-grade applications (frontend & backend) |
 | 🔐 **Secure Architecture** | Designing defense-first systems |
 | 🔧 **Security Tools** | Creating custom pentesting and analysis utilities |
 
@@ -53,6 +53,18 @@ class Developer:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-25B461?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 </details>
 
