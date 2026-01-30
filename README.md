@@ -117,7 +117,8 @@ I'm interested in working on:
 ## 💭 Ask Me About
 
 ```
-✓ Secure backend system design
+✓ Secure full stack system design
+✓ Frontend development with React
 ✓ Vulnerability assessment & exploitation
 ✓ API security hardening
 ✓ Security architecture patterns
@@ -168,7 +169,7 @@ Passionate advocate for **open-source security tools** and **Linux-first develop
 
 ```bash
 $ whoami
-backend-developer & penetration-tester
+full-stack-developer & penetration-tester
 $ echo "Making systems secure, one commit at a time"
 Making systems secure, one commit at a time
 ```
@@ -188,6 +189,6 @@ Making systems secure, one commit at a time
 
 <div align="center">
 
-**Last updated:** January 28, 2026 | **Profile optimized for:** Security & Backend Excellence
+**Last updated:** January 30, 2026 | **Profile optimized for:** Full Stack & Security Excellence
 
 </div>
