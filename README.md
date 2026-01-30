@@ -136,6 +136,8 @@ I'm interested in working on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komezusenge-Bolice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Komezusenge-Bolice&theme=tokyonight&hide_border=true&background=0D1117)
+
 <sub>📈 *Statistics reflect activity from January 2026 onwards*</sub>
 
 </div>
