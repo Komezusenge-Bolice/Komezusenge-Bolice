@@ -175,14 +175,29 @@ I'm interested in working on:
 
 ---
 
-## 📊 GitHub Profile
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Komezusenge-Bolice?style=flat-square&logo=github&color=0891b2)](https://github.com/Komezusenge-Bolice?tab=followers)
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-Komezusenge--Bolice-0891b2?style=flat-square)](https://github.com/Komezusenge-Bolice)
+**Developer Stats & Metrics**
 
-**[Visit my GitHub Profile](https://github.com/Komezusenge-Bolice)** to explore my projects and contributions.
+[![GitHub followers](https://img.shields.io/github/followers/Komezusenge-Bolice?style=flat-square&logo=github&color=0891b2&label=Followers)](https://github.com/Komezusenge-Bolice?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Komezusenge-Bolice?style=flat-square&logo=github&color=0891b2&label=Total%20Stars)](https://github.com/Komezusenge-Bolice?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=Komezusenge-Bolice&color=0891b2&style=flat-square&label=Profile%20Views)](https://github.com/Komezusenge-Bolice)
+
+---
+
+**Tech Stack Distribution**
+
+Primary Languages: **PHP** | **Python** | **JavaScript** | **Bash**
+
+Frameworks: **Laravel** | **Django** | **Express.js** | **React**
+
+Database Expertise: **MongoDB** | **MySQL** | **PostgreSQL**
+
+---
+
+**[View Full GitHub Profile →](https://github.com/Komezusenge-Bolice)**
 
 </div>
 
