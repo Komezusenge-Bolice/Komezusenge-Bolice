@@ -175,17 +175,14 @@ I'm interested in working on:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Profile
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komezusenge-Bolice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+[![GitHub followers](https://img.shields.io/github/followers/Komezusenge-Bolice?style=flat-square&logo=github&color=0891b2)](https://github.com/Komezusenge-Bolice?tab=followers)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-Komezusenge--Bolice-0891b2?style=flat-square)](https://github.com/Komezusenge-Bolice)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komezusenge-Bolice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Komezusenge-Bolice&theme=tokyonight&hide_border=true&background=0D1117)
-
-<sub>📈 *Statistics reflect activity from January 2026 onwards*</sub>
+**[Visit my GitHub Profile](https://github.com/Komezusenge-Bolice)** to explore my projects and contributions.
 
 </div>
 
