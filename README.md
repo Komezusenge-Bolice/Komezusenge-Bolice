@@ -42,17 +42,16 @@ class Developer:
 <details open>
 <summary><b>Backend Development</b></summary>
 
+**Languages & Frameworks:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-25B461?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </details>
 
@@ -69,6 +68,55 @@ class Developer:
 </details>
 
 <details open>
+<summary><b>Databases & APIs</b></summary>
+
+**Databases:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**API & Data:**
+
+![REST APIs](https://img.shields.io/badge/REST-25B461?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Scripting & Automation</b></summary>
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+*Specialized in cybersecurity task automation and system administration*
+
+</details>
+
+<details open>
+<summary><b>DevOps & Cloud Infrastructure</b></summary>
+
+**Container & Orchestration:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Cloud Platforms:**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**CI/CD & Infrastructure:**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</details>
+
+<details open>
 <summary><b>Security & Penetration Testing</b></summary>
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -81,49 +129,48 @@ class Developer:
 
 </details>
 
-<details open>
-<summary><b>DevOps & Infrastructure</b></summary>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-</details>
-
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Exploring
 
 - 🎯 Advanced threat modeling and red team operations
 - ☁️ Cloud-native security patterns and zero-trust architecture
 - 🔐 Supply chain security and dependency management
+- 🐳 Advanced Docker & Kubernetes security hardening
+- 🔧 Infrastructure-as-Code (Terraform) for secure deployments
+- 🤖 Automation-driven security orchestration
 
 ---
 
 ## 🤝 Let's Collaborate
 
 I'm interested in working on:
-- 🔒 Security-first backend projects
-- 🔍 Penetration testing engagements
-- 🛠️ Open-source security tools
-- 📚 Security research and education
+- 🔒 Secure full-stack projects (PHP/Laravel, Node.js/Express, React)
+- 💻 Backend systems with Python, Django, or FastAPI
+- 🔍 Penetration testing and vulnerability assessments
+- 🛠️ Open-source security and DevOps tools
+- ☁️ AWS/Cloud infrastructure and containerized solutions
+- 🐳 Docker and Kubernetes deployment projects
+- 🔧 Automation scripts (Bash, Batch, Python)
+- 📚 Security research and educational content
 
 ---
 
 ## 💭 Ask Me About
 
 ```
-✓ Secure full stack system design
-✓ Frontend development with React
-✓ Vulnerability assessment & exploitation
-✓ API security hardening
-✓ Security architecture patterns
-✓ Pentesting methodologies
-✓ Linux security best practices
+✓ Full Stack Development (PHP/Laravel, Node.js/Express, React)
+✓ Python Backend Development (Django, FastAPI)
+✓ Frontend Development with React, HTML5, CSS3
+✓ Database Design (MongoDB, MySQL, PostgreSQL)
+✓ REST API Development & Design
+✓ Docker & Kubernetes containerization
+✓ AWS & Cloud Infrastructure
+✓ Bash & Batch scripting for automation
+✓ Vulnerability Assessment & Exploitation
+✓ Security-First Architecture Patterns
+✓ DevOps with GitHub Actions & CI/CD
+✓ Cybersecurity Task Automation
 ```
 
 ---
@@ -191,6 +238,6 @@ Making systems secure, one commit at a time
 
 <div align="center">
 
-**Last updated:** January 30, 2026 | **Profile optimized for:** Full Stack & Security Excellence
+**Last updated:** February 7, 2026 | **Profile optimized for:** Full Stack Development & Security Excellence
 
 </div>
