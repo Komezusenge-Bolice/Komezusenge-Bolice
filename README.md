@@ -16,6 +16,10 @@
 
 I'm a passionate **full stack developer** and **offensive security specialist** dedicated to building secure, scalable systems while identifying and eliminating vulnerabilities. My expertise spans full-stack development (both frontend and backend) and advanced penetration testing methodologies.
 
+<div align="center">
+
+### ⌨️ Developer Profile
+
 ```python
 class Developer:
     def __init__(self):
@@ -23,6 +27,8 @@ class Developer:
         self.focus_areas = ["Secure Coding", "API Security", "Vulnerability Research", "Frontend Development"]
         self.philosophy = "Security first, features second"
 ```
+
+</div>
 
 ---
 
